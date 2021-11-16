@@ -32,6 +32,7 @@
   <!-- scrollmagic -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/ScrollMagic.min.js" integrity="sha512-8E3KZoPoZCD+1dgfqhPbejQBnQfBXe8FuwL4z/c8sTrgeDMFEnoyTlH3obB4/fV+6Sg0a0XF+L/6xS4Xx1fUEg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <!-- js -->
+  <script src="./js/common.js" defer></script>
   <script src="./js/main.js" defer></script>
   <script src="./js/youtube.js" defer></script>
   <!-- reset css -->
@@ -39,6 +40,7 @@
   <!-- icon -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
   <!-- css -->
+  <link rel="stylesheet" href="./css/common.css">
   <link rel="stylesheet" href="./css/main.css" />
   <!-- favicon -->
   <link rel="icon" href="./favicon.png" />
@@ -60,7 +62,8 @@
 
         <ul class="menu">
           <li>
-            <a href="#">Sign In</a>
+            <!-- /signin -> 절대경로에는 앞쪽엔 도메인 뒤쪽엔 index.html이 생략되어있다 -->
+            <a href="/signin">Sign In</a>
           </li>
           <li>
             <a href="#">My Starbucks</a>
