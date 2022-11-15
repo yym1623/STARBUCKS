@@ -11,14 +11,14 @@
 
 
 ## 목차
-* <a href="#환경설정">환경설정</a>
+* <a href="#개발도구">개발도구</a>
 * <a href="#프로젝트-소개">프로젝트 소개</a>
   * <a href="#시나리오">시나리오</a>
   * <a href="#프로젝트-목표">프로젝트 목표</a>
 * <a href="#이후의-계획">이후의 계획</a>
 
 
-## 환경설정
+## 개발도구
 * FrontEnd - HTML5, CSS3
 * server - Node
 * build - Netlify
