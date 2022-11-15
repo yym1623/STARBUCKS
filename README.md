@@ -3,7 +3,7 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E)
 <br />
-스타벅스 클론코딩 ([DEMO](https://starbuacks.netlify.app))
+패스트캠퍼스 - 한 번에 끝내는 프론트엔드 개발 초격차 패키지 Online 스타벅스 정적페이지 구현 ([DEMO](https://starbuacks.netlify.app))
 
 ![image](https://user-images.githubusercontent.com/43946794/201849237-076bf48f-ae5c-4dc1-84c5-1852c21e39c0.png)
 
